@@ -60,8 +60,7 @@ const TeluguBert: React.FC = () => {
           
         </li>
         <li>
-                      Click the "Generate" button to send a POST request to the HuggingFace
-            API endpoint for the Telugu BERT model.
+                      Click the "Generate" button.
           
         </li>
         <li>
