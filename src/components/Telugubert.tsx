@@ -64,7 +64,7 @@ const TeluguBert: React.FC = () => {
           
         </li>
         <li>
-                      The response from the API will be displayed in the output section as a
+                      The response from the model will be displayed in the output section as a
             table, showing the predicted token (<code className="bg-gray-200 px-1 py-0.5 rounded">token_str</code>), the
             complete sequence (<code className="bg-gray-200 px-1 py-0.5 rounded">sequence</code>), and the corresponding
             score.
