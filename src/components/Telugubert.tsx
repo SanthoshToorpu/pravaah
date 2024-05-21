@@ -73,8 +73,7 @@ const TeluguBert: React.FC = () => {
         </li>
         <li>
                       Note: This implementation assumes you have the necessary dependencies
-            installed (e.g., React, Axios) and the required permissions to access
-            the HuggingFace API endpoint for the Telugu BERT model.
+            installed (e.g., React, Axios).
           
         </li>
       </ol>
